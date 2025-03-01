@@ -1,2 +1,2 @@
 # my-portfolio
-my credentials
+This site contains my credentials and also my skills and talks more about my  experience
